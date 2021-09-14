@@ -1,0 +1,1 @@
+These are some practice problems I did going over some basic C concepts

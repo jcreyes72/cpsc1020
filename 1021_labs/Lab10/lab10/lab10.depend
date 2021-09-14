@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1587847339 source:c:\users\julio\documents\c programming\cpsc 1020\cpsc 1021\lab10\lab10\driver.cpp
+	"pixelArt.h"
+
+1585000270 c:\users\julio\documents\c programming\cpsc 1020\cpsc 1021\lab10\lab10\pixelart.h
+	<iostream>
+	<vector>
+	<string>
+
+1587847318 source:c:\users\julio\documents\c programming\cpsc 1020\cpsc 1021\lab10\lab10\pixelart.cpp
+	<fstream>
+	<iostream>
+	<string>
+	"pixelArt.h"
+

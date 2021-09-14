@@ -1,0 +1,1 @@
+These are some labs which were done during the CPSC 1021 portion of the course

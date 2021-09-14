@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587583346 source:c:\users\julio\documents\c programming\cpsc 1020\c++ practice\classes\classpractice01\main.cpp
+	"rectangle.h"
+	<iostream>
+
+1587583430 c:\users\julio\documents\c programming\cpsc 1020\c++ practice\classes\classpractice01\rectangle.h
+	<iostream>
+	<stdlib.h>
+

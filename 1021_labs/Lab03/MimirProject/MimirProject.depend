@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1569645750 source:c:\users\julio\documents\cpsc 1020\cpsc 1021\lab03\mimirproject\main.cpp
+	"Date.h"
+	<iostream>
+	"mainDriver1.cpp"
+
+1569644069 c:\users\julio\documents\cpsc 1020\cpsc 1021\lab03\mimirproject\date.h
+
+1569646248 c:\users\julio\documents\cpsc 1020\cpsc 1021\lab03\mimirproject\maindriver1.cpp
+	"Date.h"
+	<iostream>
+

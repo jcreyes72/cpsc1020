@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569222026 source:c:\users\julio\documents\cpsc 1020\cpsc 1021\lab03\lab03\main.c
+	<stdio.h>
+	<stdlib.h>
+

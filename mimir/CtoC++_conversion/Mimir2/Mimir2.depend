@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569742178 source:c:\users\julio\documents\cpsc 1020\mimir\c to c++ conversion\mimir2\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+
